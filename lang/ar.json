@@ -1,0 +1,15 @@
+{
+    "Projects" : "المشروعات",
+    "Project" : "المشروع",
+    "Customer" : "العميل",
+    "Permissions": "الصلاحيات",
+    "Admin Managemnt" : " ادارة الادمن",
+    "title" : "العنوان" ,
+    "name" : "الاسم",
+    "is_published" : "منشور",
+    "id" : "م",
+    "Main_image" : "الصورة الاساسية",
+    "slug" : "اسم غير رسمي",
+    "Companies" : "الشركات",
+    "Company" : "الشركة"
+}
